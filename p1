@@ -1,4 +1,4 @@
 mkdir CARTELLA_DEL_PROGETTO
 cd CARTELLA_DEL_PROGETTO
 git init
-git remote add origin https://github.com/thetom88/thetom88.git
+git remote add origin https://github.com/EzequielMazzini/EzequielMazzini.git
